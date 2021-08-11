@@ -1,0 +1,29 @@
+{
+  "name": "find-item-backend",
+  "version": "1.0.0",
+  "description": "Server to upload excel file having list of items available in a store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit194/find-item-backend.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "JWT",
+    "Server"
+  ],
+  "author": "Sumit Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumit194/find-item-backend/issues"
+  },
+  "homepage": "https://github.com/sumit194/find-item-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
